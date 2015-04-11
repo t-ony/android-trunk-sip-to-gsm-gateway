@@ -1,0 +1,1 @@
+Our aim is to turn an Android phone into a SIP to GSM gateway, so anyone can make and receive cellular calls using SIP/IAX from over the internet, even if your phone is in another country.
